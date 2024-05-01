@@ -30,10 +30,15 @@ Thanks for visiting my GitHub account!
 |                  Roadmap                  |
 | ![roadmap](images/full-stuck-roadmap.png) |
 
-|                              |                                |
-| :--------------------------: | :----------------------------: |
-|           Overview           |            Outline             |
-| ![overview](images/html.png) | ![outline](images/outline.png) |
+|                              |
+| :--------------------------: |
+|           Overview           |
+| ![overview](images/html.png) |
+
+|                                |
+| :----------------------------: |
+|            Outline             |
+| ![outline](images/outline.png) |
 
 ## Table of Contents
 
