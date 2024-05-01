@@ -5,6 +5,7 @@ Thanks for visiting my GitHub account!
 <img src ="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" height = "200px" width = "200px"/> **HyperText Markup Language (HTML)** is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. [more](https://www.w3schools.com/html/html_intro.asp)
 
 ### What is HTML?
+
 - HTML stands for Hyper Text Markup Language
 - HTML is the standard markup language for creating Web pages
 - HTML describes the structure of a Web page
@@ -24,10 +25,15 @@ Thanks for visiting my GitHub account!
 
 ## Project Overview
 
-|                             |
-| :-------------------------: |
-|          Overview           |
-| ![roadmap](images/html.png) |
+|                                           |
+| :---------------------------------------: |
+|                  Roadmap                  |
+| ![roadmap](images/full-stuck-roadmap.png) |
+
+|                              |                                |
+| :--------------------------: | :----------------------------: |
+|           Overview           |            Outline             |
+| ![overview](images/html.png) | ![outline](images/outline.png) |
 
 ## Table of Contents
 
