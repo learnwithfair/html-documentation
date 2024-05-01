@@ -1,4 +1,4 @@
-# HTML Documentation
+# HTML-DOCUMENTATION
 
 Thanks for visiting my GitHub account!
 
